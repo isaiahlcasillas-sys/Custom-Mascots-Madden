@@ -1,0 +1,4 @@
+# Blender as a Python module. bpy 5.2 wheels need Python 3.13 exactly.
+bpy==5.2.3
+# Only used to tile preview images into docs/gallery.png.
+pillow
